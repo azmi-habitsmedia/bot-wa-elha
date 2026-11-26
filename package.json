@@ -1,0 +1,9 @@
+{
+  "name": "bot-wa-habits-media",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Jembatan WAHA (WhatsApp) ke Claude API untuk admin Habits Media",
+  "engines": { "node": ">=20" },
+  "scripts": { "start": "node src/server.js" }
+}

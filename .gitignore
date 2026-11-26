@@ -1,0 +1,4 @@
+.env
+data/
+waha-sessions/
+node_modules/
